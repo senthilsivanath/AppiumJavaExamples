@@ -1,2 +1,2 @@
 # AppiumJavaExamples
-Appium examples for Java used in ForgetCode.com
+Appium examples for Java used in http://ForgetCode.com
